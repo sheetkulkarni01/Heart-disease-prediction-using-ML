@@ -20,7 +20,7 @@ This project is a desktop-based heart disease prediction tool that:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/Heart-disease-prediction-using-ML.git
+   git clone https://github.com/sheetkulkarni01/Heart-disease-prediction-using-ML.git
    cd Heart-disease-prediction-using-ML
    ```
 
